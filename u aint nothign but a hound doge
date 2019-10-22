@@ -1,0 +1,7 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+    cout<<"Ayyo wassup bois,jobin here";
+    getch();
+}
